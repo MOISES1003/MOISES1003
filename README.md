@@ -9,7 +9,7 @@
      <a href="https://www.linkedin.com/in/moises-saucedo-ambicho-813316174" target="_blank">
       <img src="https://i.ibb.co/XVp5j8P/linkedin.png" width="20" />
     </a>
-     <a href="https://imgbb.com/">
+     <a href="https://imgbb.com/" target="_blank">
      <img src="https://i.ibb.co/cL1WZKP/reddit.png" width="20">
      </a>
   </p>
