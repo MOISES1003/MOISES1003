@@ -4,10 +4,10 @@
   <h3>Hi, I'm Moises, a software engineer.<h3/>
 </div>
 
-### Development Skills
+### development skills
   <p >
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,dart,dotnet,flutter,js,laravel,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,mysql,dotnet,laravel,react,git" />
   </a>
 </p>
 <!--<header><div id="header" align="center"  style="background-color: red;" >
