@@ -16,6 +16,7 @@
 </div>
 
 ### development skills
+<hr/>
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,mysql,dotnet,laravel,react,git" />
@@ -23,12 +24,14 @@
 </p>
   
 ### Soft skills
+ <hr/>
  <div style="display: flex; justify-content: space-between;">
    <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)"/>
+    srcset="https://github-readme-stats.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
+</picture>  
+    <div/>
 <picture>
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES1003"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
