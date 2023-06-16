@@ -22,11 +22,9 @@
     <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,mysql,dotnet,laravel,react,git" />
   </a>
 </p>
-  
 ### Soft skills
  <hr/>
- <div style="display: flex; justify-content: space-between;">
-   <picture>
+ <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
@@ -36,5 +34,5 @@
   <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES1003"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
- <div/>
+
  
