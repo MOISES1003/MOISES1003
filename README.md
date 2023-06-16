@@ -6,7 +6,7 @@
     <a href="https://skillicons.dev" target="_blank">
       <img src="https://i.ibb.co/p0pfgGv/instagram.png" width="20"/>
     </a>
-     <a href="https://skillicons.dev" target="_blank">
+     <a href="https://www.linkedin.com/in/moises-saucedo-ambicho-813316174" target="_blank">
       <img src="https://i.ibb.co/XVp5j8P/linkedin.png" width="20" />
     </a>
      <a href="https://imgbb.com/">
