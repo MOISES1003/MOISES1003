@@ -33,7 +33,7 @@
 </picture>  
  <picture>
   <source
-    srcset="https://streak-stats.demolab.com/?user=MOISES1003&theme=dark"/>
+    srcset="https://streak-stats.demolab.com?user=MOISES1003&hide_border=FALSO&border_radius=4.2&card_width=350&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>  
     <div/>
