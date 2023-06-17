@@ -23,7 +23,16 @@
   </a>
 </p>
    
-### My Stats
+### Soft Skills
+   <ul>
+      <li>Resilience</li>
+      <li>teamwork</li>
+      <li>Analytical and problem solving capacity</li>
+      <li>Adaptability</li>
+      <li>Desire to learn and be at the forefron</li>
+   </ul>     
+   
+### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/> My Stats
  <hr/>
    <div align="center">
  <picture>
