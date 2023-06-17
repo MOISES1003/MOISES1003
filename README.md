@@ -23,7 +23,8 @@
   </a>
 </p>
    
-### Soft Skills
+### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/> Soft Skills
+   <hr/>
    <ul>
       <li>Resilience</li>
       <li>teamwork</li>
@@ -32,7 +33,7 @@
       <li>Desire to learn and be at the forefron</li>
    </ul>     
    
-### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/> My Stats
+###  My Stats
  <hr/>
    <div align="center">
  <picture>
