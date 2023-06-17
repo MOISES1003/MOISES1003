@@ -19,7 +19,7 @@
 <hr/>
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,mysql,dotnet,laravel,react,git" />
+    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,sass,mysql,dotnet,laravel,react,postman,git" />
   </a>
 </p>
    
