@@ -23,17 +23,25 @@
   </a>
 </p>
    
-### Soft skills
+### My Stats
  <hr/>
+   <div align="center">
  <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>  
+ <picture>
+  <source
+    srcset="https://streak-stats.demolab.com/?user=MOISES1003&theme=dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>  
     <div/>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES1003&layout=compact"/>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES1003&layout=compact&theme=dark"/>
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
+ <div/>
+   
 
  
