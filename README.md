@@ -1,4 +1,16 @@
 
+<html>
+<head>
+  <title>Visor 3D</title>
+  <style>
+    #canvas {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+  </style>
+</head>
+<body>
 <div id="header" align="center">
    <img src="https://gifdb.com/images/file/spooky-month-creepy-ghostemane-black-and-white-qvk7qe2jg709qjq2.gif" alt="Profile GIF" width="350">
    <h3>Hi, I'm Moises, a software engineer.<h3/>
@@ -86,5 +98,6 @@
 
     animate();
   </script>   
-
+</body>
+</html>
  
