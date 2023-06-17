@@ -15,8 +15,8 @@
   </p>
 </div>
 
-### development skills
-<hr/>
+### <img src="https://i.ibb.co/MNNckFs/coffee-shop-unscreen.gif" width="40"> development skills
+<hr/>   
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,sass,mysql,dotnet,laravel,react,postman,git" />
