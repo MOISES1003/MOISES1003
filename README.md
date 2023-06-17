@@ -22,6 +22,7 @@
     <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,mysql,dotnet,laravel,react,git" />
   </a>
 </p>
+   
 ### Soft skills
  <hr/>
  <picture>
