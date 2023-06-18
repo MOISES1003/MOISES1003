@@ -19,11 +19,14 @@
 <hr/>   
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,sass,mysql,dotnet,laravel,react,postman,git" />
+    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,sass,styledcomponents,mysql,dotnet,laravel,react,postman,git" /> 
+     <img src="https://i.ibb.co/p4bTxyr/servidor-sql.png"  width="47" style="margin-left:15px;" >
+        <img src ="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="45"/>  
+     
   </a>
 </p>
    
-### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="60"/> Soft Skills
+### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="65"/> Soft Skills
    <hr/>
    <ul>
       <li>Resilience</li>
