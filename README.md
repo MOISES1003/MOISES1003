@@ -41,8 +41,8 @@
    <div align="center">
  <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>  
  <picture>
   <source
@@ -51,8 +51,8 @@
 </picture>  
     <div/>
 <picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MOISES1003&layout=compact&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOISES1003&layout=compact&theme=dark"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
  <div/>     
       
