@@ -15,7 +15,8 @@
   </p>
 </div>
 
-### <img src="https://i.ibb.co/MNNckFs/coffee-shop-unscreen.gif" width="40"> development skills
+### development skills <img src="https://i.ibb.co/MNNckFs/coffee-shop-unscreen.gif" width="40">
+
 <hr/>   
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
