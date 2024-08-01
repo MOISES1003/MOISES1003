@@ -20,7 +20,7 @@
 <hr/>   
   <p id="badges" align="center">
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,html,css,sass,styledcomponents,bootstrap,mysql,firebase,dotnet,laravel,nodejs,react,vite,yarn,postman,visualstudio,vscode,git,github" /> 
+    <img src="https://skillicons.dev/icons?i=cs,php,js,ts,html,css,sass,styledcomponents,bootstrap,mysql,firebase,dotnet,laravel,nodejs,react,angular,vite,yarn,postman,visualstudio,vscode,git,github" /> 
      <img src="https://i.ibb.co/p4bTxyr/servidor-sql.png"  width="47" style="margin-left:15px;" >
   </a>
 </p>
