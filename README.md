@@ -1,51 +1,57 @@
-
 <div id="header" align="center">
-   <img src="https://gifdb.com/images/file/spooky-month-creepy-ghostemane-black-and-white-qvk7qe2jg709qjq2.gif" alt="Profile GIF" width="350">
-   <h3>Hi, I'm Moises Developer.<h3/>
+   <img src="https://gifdb.com/images/file/spooky-month-creepy-ghostemane-black-and-white-qvk7qe2jg709qjq2.gif" width="350">
+   
+   <h2>⚡ Hi, I'm Moises Developer ⚡</h2>
+   <p><i>Full Stack Developer | Systems Engineering</i></p>
 </div>
 
-### development skills <img src="https://i.ibb.co/MNNckFs/coffee-shop-unscreen.gif" width="40">
+---
 
-<hr/>   
-  <p id="badges" align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cs,php,js,ts,html,css,sass,styledcomponents,bootstrap,mysql,firebase,dotnet,laravel,nodejs,react,angular,vite,yarn,postman,visualstudio,vscode,git,github" /> 
-      <img src="https://i.ibb.co/p4bTxyr/servidor-sql.png"  width="47">
-  </a>  
+### 🛠️ Development Skills 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,php,js,ts,html,css,sass,styledcomponents,bootstrap,mysql,firebase,dotnet,laravel,nodejs,react,angular,vite,yarn,postman,visualstudio,vscode,git,github" />
+  <br/><br/>
+  <img src="https://i.ibb.co/p4bTxyr/servidor-sql.png" width="50">
+</p>
 
+---
 
-</p> 
+### 🧠 Soft Skills
+<p align="center">
+  💪 Resilience • 🤝 Teamwork • 🧠 Problem Solving • ⚡ Adaptability • 📚 Continuous Learning
+</p>
 
-   
-### <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="65"/> Soft Skills
-   <hr/>
-   <ul>
-      <li>Resilience</li>
-      <li>teamwork</li>
-      <li>Analytical and problem solving capacity</li>
-      <li>Adaptability</li>
-      <li>Desire to learn and be at the forefron</li>
-   </ul>     
-   
-###  My Stats
- <hr/>
-   <div align="center">
- <picture>
-  <source
-    srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=MOISES1003&show_icons=true&theme=dark"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>  
- <picture>
-  <source
-    srcset="https://streak-stats.demolab.com?user=MOISES1003&hide_border=FALSO&border_radius=4.2&card_width=350&theme=dark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>  
-    <div/>
-<picture>
-  <source srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOISES1003&layout=compact&theme=dark"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
- <div/>     
-      
+---
 
- 
+### 📊 My Stats
+<p align="center">
+
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MOISES1003&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+
+  <img src="https://streak-stats.demolab.com?user=MOISES1003&theme=tokyonight&hide_border=true" height="160"/>
+
+</p>
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MOISES1003&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
+</p>
+
+---
+
+### ⚔️ Codewars Stats
+<p align="center">
+
+  <a href="https://www.codewars.com/users/MOISES1003" target="_blank">
+    <img src="https://www.codewars.com/users/MOISES1003/badges/large?v=1"/>
+  </a>
+
+</p>
+
+---
+
+### 🧬 Dev Quote
+<p align="center">
+  <i>"Code. Break. Fix. Repeat."</i>
+</p>
